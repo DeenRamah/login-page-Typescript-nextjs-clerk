@@ -9,7 +9,7 @@ npm install
 @next-auth - for actions also
 
 
-npm install @grafbase/sdk --save-dev for speeding up wrokflow with graphbase
+npm install @grafbase/sdk --save-dev for speeding up workflow with graphbase
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
